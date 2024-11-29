@@ -22,4 +22,4 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-manager.git
+   git clone https://github.com/AliBehrouzinia/file-manager.git
